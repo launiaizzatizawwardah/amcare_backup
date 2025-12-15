@@ -25,7 +25,7 @@ dependencies:
 
   # Animasi Super Ringan & Keren
   flutter_staggered_animations: ^1.1.1
-  
+
   # Carousel animasi
   carousel_slider: ^4.2.1
 
